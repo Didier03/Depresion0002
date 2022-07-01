@@ -1,0 +1,40 @@
+li{float:right;
+	padding:12px 12px;
+	margin:8px 0 0;
+	font-family:'Montserrat',sans-serif;
+	border:5px solid #CACFD2 ;
+	background:0;
+	color:#F1C40F;
+	cursor: pointer;
+	transition:all .3s
+}
+
+.estilo:hover {
+  filter: grayscale(80%);
+  animation: infinite;
+}
+
+.boton1{
+    text-decoration: none;
+    display:inline-block;
+    width:20%;
+    padding:20px;
+    border: 3px solid black;
+    border-radius:50px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    transition: all 0.9s;
+    text-align: center;
+    font-size: 30px;
+    
+  }
+
+  .boton1:hover{
+ 
+    background:black;
+    color:white;
+
+  }
+
+

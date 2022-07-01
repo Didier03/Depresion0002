@@ -1,0 +1,10 @@
+li{float:right;
+	padding:12px 12px;
+	margin:8px 0 0;
+	font-family:'Montserrat',sans-serif;
+	border:5px solid #CACFD2 ;
+	background:0;
+	color:#F1C40F;
+	cursor: pointer;
+	transition:all .3s
+}
